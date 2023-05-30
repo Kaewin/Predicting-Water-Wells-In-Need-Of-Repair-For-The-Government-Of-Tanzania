@@ -1,18 +1,18 @@
 id                         int64 - clear
-amount_tsh               float64 **tsh = total static head (amount water available to waterpoint)**
-date_recorded             object - datetime object (I think)
-funder                    object - clear
-gps_height                 int64 - clear
-installer                 object - clear 
-longitude                float64 - clear
-latitude                 float64 - clear
-wpt_name                  object - clear
-num_private                int64 - not sure what this column is, it also has no desc in the website
-basin                     object - k
-subvillage                object - k
-region                    object - k
-region_code                int64 - k
-district_code              int64 - k
+amount_tsh               float64 - integer
+date_recorded             object - datetime object 
+funder                    object - spaces, title
+gps_height                 int64 - integer
+installer                 object - space, title, caps 
+longitude                float64 - float
+latitude                 float64 - float
+wpt_name                  object - spaces, title
+num_private                int64 - ?????
+basin                     object - bad bad bad
+subvillage                object - also bad
+region                    object - fix
+region_code                int64 - integer
+district_code              int64 - integer
 lga                       object - 
 ward                      object - 
 population                 int64 - 
