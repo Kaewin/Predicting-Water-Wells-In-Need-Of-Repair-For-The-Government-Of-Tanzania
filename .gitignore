@@ -3,8 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.code-workspace
-data/
 *.png
+
+data/
+*.csv
 
 # C extensions
 *.so
