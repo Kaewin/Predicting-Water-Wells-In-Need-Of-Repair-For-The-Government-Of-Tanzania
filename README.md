@@ -1,10 +1,12 @@
-# phase3_project3
+**Presentation**
+* [Google Slides](https://docs.google.com/presentation/d/1I34XcvTqbOwh9xBtx27wmkNFPC6luxFFKyY532R_-0I/edit?usp=sharing)
+* [PDF](https://github.com/Kaewin/phase3_project3/blob/main/Phase%203%20Presentation.pdf)
 
-[Presentation](https://docs.google.com/presentation/d/1I34XcvTqbOwh9xBtx27wmkNFPC6luxFFKyY532R_-0I/edit?usp=sharing)
+**Lab Notebook (mostly unused)**
+* [Google Document](https://docs.google.com/document/d/1Spref_pjFamfD-KR-_QiNYEyXASlaG7z9inboxcsCjs/edit?usp=sharing)
 
-[Google Document Lab Notebook](https://docs.google.com/document/d/1Spref_pjFamfD-KR-_QiNYEyXASlaG7z9inboxcsCjs/edit?usp=sharing)
-
-[Source Of The Data](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
+**Data Source**
+* [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
 
 
 # Intro:
